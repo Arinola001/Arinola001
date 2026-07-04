@@ -4,7 +4,7 @@ I'm a detail-oriented Frontend Developer with an economist's eye for systems and
 
 🌍 Based in Abuja, Nigeria
 💼 Open to freelance roles and remote jobs
-📱 Fun fact: I build everything from my phone — no laptop, just pure determination!
+📱 Fun fact: I build everything from my phone — no laptop yet, just pure determination!
 
 ---
 
