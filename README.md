@@ -24,30 +24,44 @@ I'm a detail-oriented Frontend Developer with an economist's eye for systems and
 
 ---
 
-  Featured Projects
+##  Featured Projects
 
- MoveIQ
+###  MoveIQ
 A road safety and commuter web application designed to improve travel experience across Nigeria.
 - Responsive design
 - Clean UI/UX
 - Deployed on Vercel
 - **Live:** [View Project](https://move-iq.vercel.app)
 
- Fresh Baked Market
+### 🛒 Fresh Baked Market
 A clean and modern e-commerce landing page for a bakery brand.
 - Mobile-first responsive layout
 - HTML & CSS only
 - **Live:** [View Project](https://arinola001.github.io/Personal-portfolio-website)
 
- Calculator App
+###  Calculator App
 A fully functional calculator built with vanilla JavaScript.
 - DOM manipulation
 - Clean minimal design
 - **Live:** [View Project](https://arinola001.github.io/Personal-portfolio-website)
 
+###  NovaTech Landing Page
+A clean, modern and fully responsive landing page for a fictional tech startup.
+- Smooth scroll animations
+- Animated stat counters
+- Mobile hamburger menu
+- **Live:** [View Project](https://arinola001.github.io/NovaTech/)
+
+### 🎓 Greenfield University Admission Form
+A multi-step university admission form with real-time validation.
+- 4 step form with progress indicator
+- Real-time field validation
+- Auto-generated application number
+- **Live:** [View Project](https://arinola001.github.io/university-admission-portal/)
+
 ---
 
- Current Goals
+## Current Goals
 
 - 📚 Deepening my JavaScript and React knowledge
 - 🔗 Learning API integration
@@ -56,7 +70,7 @@ A fully functional calculator built with vanilla JavaScript.
 
 ---
 
- Connect With Me
+ ## Connect With Me
 
 - 📧 Email: adekunlepraise295@gmail.com
 - 🌐 Portfolio: https://arinola001.github.io/Personal-portfolio-website
