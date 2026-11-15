@@ -3,7 +3,7 @@
 I'm a detail-oriented Frontend Developer with an economist's eye for systems and patterns. I turn Figma designs into clean, responsive, and interactive web applications.
 
 🌍 Based in Abuja, Nigeria
-💼 Open to freelance roles and remote jobs
+💼 Open to Frontend Development internships, entry-level roles, freelance opportunities and remote work.
 📱 Fun fact: I build everything from my phone — no laptop yet, just pure determination!
 
 ---
