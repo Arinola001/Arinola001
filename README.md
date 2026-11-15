@@ -61,12 +61,13 @@ A multi-step university admission form with real-time validation.
 
 ---
 
-## Current Goals
+## 🎯 Current Goals
 
-- 📚 Deepening my JavaScript and React knowledge
-- 🔗 Learning API integration
-- 🏗️ Contributing to real team projects
-- 💼 Landing my first remote frontend role
+- 📚 Deepening my JavaScript, React and API integration skills
+- 🛠️ Building responsive, accessible applications that solve real user problems
+- 🤝 Gaining hands-on experience through collaborative, real-world projects
+- 💳 Exploring opportunities at the intersection of technology and financial services
+- 🎯 Securing a Frontend Development internship or entry-level role
 
 ---
 
